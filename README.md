@@ -31,7 +31,7 @@ I currently work as a freelancer.
 
 ### Contact
 
-You can send an email to [hi@dorn.pm](mailto:hi@dorn.pm).
+You can send an email to [hello@dorn.pm](mailto:hello@dorn.pm).
 
 ---
 
